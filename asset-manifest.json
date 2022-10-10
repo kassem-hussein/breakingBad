@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/breakingBad/static/css/main.e1acb8b5.css",
+    "main.js": "/breakingBad/static/js/main.dcd68e13.js",
+    "static/media/s3.jpg": "/breakingBad/static/media/s3.a634a962b62fc203a4d3.jpg",
+    "static/media/BreakingBad2.jpg": "/breakingBad/static/media/BreakingBad2.2984d17111620058774e.jpg",
+    "static/media/s2.jpg": "/breakingBad/static/media/s2.f716dc6f50877e08d4ea.jpg",
+    "static/media/BreakingBad4.jpg": "/breakingBad/static/media/BreakingBad4.ecdeb37504901a2e1130.jpg",
+    "static/media/s4.jpg": "/breakingBad/static/media/s4.73a6909d201ad6c7d666.jpg",
+    "static/media/s1.jpg": "/breakingBad/static/media/s1.90f50739cae73f37b306.jpg",
+    "static/media/s5.jpg": "/breakingBad/static/media/s5.76ce9d822079e9e594b3.jpg",
+    "index.html": "/breakingBad/index.html",
+    "main.e1acb8b5.css.map": "/breakingBad/static/css/main.e1acb8b5.css.map",
+    "main.dcd68e13.js.map": "/breakingBad/static/js/main.dcd68e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1acb8b5.css",
+    "static/js/main.dcd68e13.js"
+  ]
+}
