@@ -1,0 +1,8 @@
+.img {
+  height: 400px;
+  width: 100%;
+  margin-top: var(--margin-primary);
+}
+.text-h {
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+:root {
+  --bg-color-primary: #1c6758;
+  --bg-color-scoundery: #3d8361;
+  --bg-color-third: #d6cda4;
+  --bg-color-four: #eef2e6;
+  --color-primary: white;
+  --margin-primary: 50px;
+  --padding-primary: 10px;
+  --borderRedius-primary: 20px;
+}
+
+a,
+.nav-link {
+  text-decoration: none;
+  color: var(--color-primary);
+  transition: all 2s;
+}
+a:hover,
+.nav-link:hover {
+  color: var(--bg-color-third);
+}
+ul {
+  list-style: none;
+}
